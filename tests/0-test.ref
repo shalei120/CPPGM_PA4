@@ -1,0 +1,17 @@
+identifier abc
+identifier f
+simple ( OP_LPAREN
+identifier sdrf
+identifier cB
+simple ( OP_LPAREN
+identifier s
+simple ) OP_RPAREN
+literal "sss" array of 4 char 73737300
+identifier cB
+simple ( OP_LPAREN
+identifier B
+simple ( OP_LPAREN
+identifier c
+simple ) OP_RPAREN
+simple ) OP_RPAREN
+eof
